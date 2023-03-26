@@ -3,7 +3,7 @@ GIT HUB
 # iFood UI
 
 
-Depois da Calculadora do IMC pela comunidade Dev Space, fui pesquisar e me interar mais do assunto e com ajuda de alguns vídeos no Youtobe e conclui meu primeiro projeto.
+Depois da Calculadora do IMC pela comunidade Dev Space, fui pesquisar e me capacitar mais do assunto e com ajuda de alguns vídeos no Youtobe e conclui meu primeiro projeto.
 
 
 ## 📸 : Screenshots

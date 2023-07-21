@@ -16,22 +16,22 @@ Depois da Calculadora do IMC pela comunidade Dev Space, fui pesquisar e me capac
 
 ## Tecnologias
 
-*Kotlin*,
-*ViewGroup*,
-*LinearLayout*,
-*RecyclerView*,
-*NestedScrollView*,
-*HorizontalScrollView*,
-*ChipGroup*.
+* Kotlin,
+* ViewGroup
+* LinearLayout
+* RecyclerView
+* NestedScrollView
+* HorizontalScrollView
+* ChipGroup.
 
 
 ## Components de UI
-*TextView*,
-*EditText*,
-*Button*,
-*Intent Explicita para abrir a segunda Activity*,
-*FindViewById para recuperar components de UI*,
-*String resource para concatenação de textos*.
+* TextView
+* EditText*,
+* Button*,
+* Intent Explicita para abrir a segunda Activity
+* FindViewById para recuperar components de UI
+* String resource para concatenação de textos.
 
 
 ## TODO

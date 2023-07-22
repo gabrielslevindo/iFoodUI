@@ -27,8 +27,8 @@ Depois da Calculadora do IMC pela comunidade Dev Space, fui pesquisar e me capac
 
 ## Components de UI
 * TextView
-* EditText*,
-* Button*,
+* EditText,
+* Button,
 * Intent Explicita para abrir a segunda Activity
 * FindViewById para recuperar components de UI
 * String resource para concatenação de textos.
